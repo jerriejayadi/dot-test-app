@@ -1,6 +1,6 @@
 # TEST APP
 
-Aplikasi ini adalah aplikasi sederhana yang mengambil data dari sebuah API Gratis "JSONPlaceholder" yang merupakan endpoint dummy dari sebuah aplikasi website. URL API: [text](https://jsonplaceholder.typicode.com/)
+Aplikasi ini adalah aplikasi sederhana yang mengambil data dari sebuah API Gratis "JSONPlaceholder" yang merupakan endpoint dummy dari sebuah aplikasi website. URL API: https://jsonplaceholder.typicode.com/
 
 ## Jalankan Aplikasi di local
 
